@@ -1,0 +1,7 @@
+based on https://curl.se/download/curl-7.74.0.zip
+github: https://github.com/curl/curl.git
+Copyrights are reserved by its authors, owners, developers, contributors...
+
+MtDesert:
+I reserve only "include" dir & "lib" dir, And write a Makefile for compile control.
+Depend on CompileScripts, see https://github.com/MtDesert/CompileScripts for more details.
